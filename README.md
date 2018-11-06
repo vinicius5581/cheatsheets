@@ -6,3 +6,4 @@
 - MONGODB
 - GIT
 - GITHUB
+- CURL
